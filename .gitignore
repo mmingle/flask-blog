@@ -1,6 +1,7 @@
 # Python bytecode:
 *.pyc
-
+*.py[co]
+*.pyc
 # SQLite3 database files:
 *.db
 
